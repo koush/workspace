@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch=".."
+           review="review.cyanogenmod.org" />
+
+  <default revision="master"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+</manifest>
