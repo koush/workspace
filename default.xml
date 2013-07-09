@@ -9,4 +9,8 @@
            remote="github"
            sync-c="true"
            sync-j="4" />
+
+   <project path="AndroidAsync" name="koush/AndroidAsync" />
+   <project path="ion" name="koush/ion" />
+   <project path="workspace" name="koush/workspace" />
 </manifest>
