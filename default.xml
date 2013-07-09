@@ -12,5 +12,6 @@
 
    <project path="AndroidAsync" name="koush/AndroidAsync" />
    <project path="ion" name="koush/ion" />
+   <project path="babel" name="koush/babel" />
    <project path="workspace" name="koush/workspace" />
 </manifest>
