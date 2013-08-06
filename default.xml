@@ -12,12 +12,24 @@
 
    <project path="AndroidAsync" name="koush/AndroidAsync" />
    <project path="ion" name="koush/ion" />
+
+   <project path="google-play-services_lib" name="koush/google-play-services_lib" />
+
    <project path="babel" name="koush/babel" />
-   <project path="ClockworkModBilling" name="ClockworkMod/ClockworkModBilling" />
+
    <project path="Backup" name="koush/Backup" />
    <project path="CarbonResources" name="koush/CarbonResources" />
-   <project path="Widgets" name="koush/Widgets" />
    <project path="box-android-sdk" name="koush/box-android-sdk" />
+
+   <project path="ClockworkModBilling" name="ClockworkMod/ClockworkModBilling" />
+   <project path="Widgets" name="koush/Widgets" />
    <project path="workspace" name="koush/workspace" />
-   <project path="artwork" name="koush/artwork" />
+   <project path="artwork" name="ClockworkMod/artwork" />
+
+   <project path="ROMManager" name="koush/ROMManager" />
+   <project path="ROMManagerResources" name="ClockworkMod/ROMManagerResources" />
+   <project path="ROMManagerAssets" name="koush/ROMManagerAssets" />
+
+   <project path="DeskSMS" name="ClockworkMod/DeskSMS" />
+   <project path="desksms" name="koush/desksms" />
 </manifest>
