@@ -13,6 +13,8 @@
   <project path="AndroidAsync" name="koush/AndroidAsync" />
   <project path="ion" name="koush/ion" />
 
+  <project path="UniversalAdbDriver" name="koush/UniversalAdbDriver" />
+
   <project path="google-play-services_lib" name="koush/google-play-services_lib" />
   <project path="android-support-v7-mediarouter" name="koush/android-support-v7-mediarouter" />
   <project path="android-support-v7" name="koush/android-support-v7" />
@@ -36,4 +38,7 @@
 
   <project path="DeskSMS" name="ClockworkMod/DeskSMS" />
   <project path="desksms" name="koush/desksms" />
+
+  <project path="TextSecure" name="WhisperSystems/TextSecure" revision="push-library" />
+  <project path="WhisperPush" name="WhisperSystems/WhisperPush" />
 </manifest>
