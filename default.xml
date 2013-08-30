@@ -20,7 +20,7 @@
   <project path="android-support-v7" name="koush/android-support-v7" />
   <project path="Chromecast" name="koush/Chromecast" />
 
-  <project path="MyCast" name="koush/MyCast" />
+  <project path="Cast" name="koush/Cast" />
 
   <project path="Backup" name="koush/Backup" />
   <project path="CarbonResources" name="koush/CarbonResources" />
@@ -38,7 +38,4 @@
 
   <project path="DeskSMS" name="ClockworkMod/DeskSMS" />
   <project path="desksms" name="koush/desksms" />
-
-  <project path="TextSecure" name="WhisperSystems/TextSecure" revision="push-library" />
-  <project path="WhisperPush" name="WhisperSystems/WhisperPush" />
 </manifest>
