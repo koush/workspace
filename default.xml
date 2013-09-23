@@ -38,4 +38,6 @@
 
   <project path="DeskSMS" name="ClockworkMod/DeskSMS" />
   <project path="desksms" name="koush/desksms" />
+
+  <project path="Mirror" name="cyngn/Mirror" />
 </manifest>
