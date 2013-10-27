@@ -2,8 +2,7 @@
 <manifest>
 
   <remote  name="origin"
-           fetch=".."
-           review="review.cyanogenmod.org" />
+           fetch=".." />
 
   <default revision="master"
            remote="origin"
