@@ -20,6 +20,7 @@
   <project path="Chromecast" name="koush/Chromecast" />
 
   <project path="Cast" name="koush/Cast" />
+  <project path="Mirror" name="koush/Mirror" />
 
   <project path="Backup" name="koush/Backup" />
   <project path="CarbonResources" name="koush/CarbonResources" />
@@ -37,6 +38,4 @@
 
   <project path="DeskSMS" name="ClockworkMod/DeskSMS" />
   <project path="desksms" name="koush/desksms" />
-
-  <project path="Mirror" name="cyngn/Mirror" />
 </manifest>
