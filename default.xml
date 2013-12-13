@@ -19,6 +19,8 @@
   <project path="android-support-v7" name="koush/android-support-v7" />
   <project path="Chromecast" name="koush/Chromecast" />
 
+  <project path="GoogleDrive" name="koush/GoogleDrive" />
+
   <project path="Cast" name="koush/Cast" />
   <project path="Mirror" name="koush/Mirror" />
 
