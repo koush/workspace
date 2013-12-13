@@ -16,7 +16,7 @@
 
   <project path="google-play-services_lib" name="koush/google-play-services_lib" />
   <project path="android-support-v7-mediarouter" name="koush/android-support-v7-mediarouter" />
-  <project path="android-support-v7" name="koush/android-support-v7" />
+  <project path="android-support-v7-appcompat" name="koush/android-support-v7-appcompat" />
   <project path="Chromecast" name="koush/Chromecast" />
 
   <project path="GoogleDrive" name="koush/GoogleDrive" />
