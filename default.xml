@@ -11,12 +11,15 @@
 
   <project path="AndroidAsync" name="koush/AndroidAsync" />
   <project path="ion" name="koush/ion" />
+  <project path="Chrome" name="koush/Chrome" />
   <project path="boilerplate" name="koush/boilerplate" />
   <project path="UniversalAdbDriver" name="koush/UniversalAdbDriver" />
 
   <project path="Cast" name="koush/Cast" />
   <project path="CastAPI" name="koush/CastAPI" />
   <project path="CastResources" name="koush/CastResources" />
+
+  <project path="Vysor" name="koush/Vysor" />
   <project path="vysor.io" name="koush/vysor.io" />
 
   <project path="Backup" name="koush/Backup" />
