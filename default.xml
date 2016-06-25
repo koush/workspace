@@ -11,6 +11,7 @@
 
   <project path="AndroidAsync" name="koush/AndroidAsync" />
   <project path="ion" name="koush/ion" />
+  <project path="Upnp" name="koush/Upnp" />
   <project path="Chrome" name="koush/Chrome" />
   <project path="boilerplate" name="koush/boilerplate" />
   <project path="UniversalAdbDriver" name="koush/UniversalAdbDriver" />
@@ -21,6 +22,9 @@
 
   <project path="Vysor" name="koush/Vysor" />
   <project path="vysor.io" name="koush/vysor.io" />
+
+  <project path="Tether" name="koush/Tether" />
+  <project path="TetherResources" name="ClockworkMod/TetherResources" />
 
   <project path="Backup" name="koush/Backup" />
   <project path="CarbonResources" name="koush/CarbonResources" />
