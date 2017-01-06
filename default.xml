@@ -11,8 +11,10 @@
 
   <project path="AndroidAsync" name="koush/AndroidAsync" />
   <project path="ion" name="koush/ion" />
+  <project path="myshowcase" name="koush/myshowcase" />
   <project path="Upnp" name="koush/Upnp" />
   <project path="Chrome" name="koush/Chrome" />
+  <project path="electron-chrome" name="koush/electron-chrome" />
   <project path="boilerplate" name="koush/boilerplate" />
   <project path="UniversalAdbDriver" name="koush/UniversalAdbDriver" />
 
@@ -22,17 +24,22 @@
 
   <project path="Vysor" name="koush/Vysor" />
   <project path="vysor.io" name="koush/vysor.io" />
+  <project path="dev.vysor.io" name="koush/dev.vysor.io" />
+  <project path="vysornuts.clockworkmod.com" name="koush/vysornuts.clockworkmod.com" />
+  <project path="inkwire.io" name="koush/inkwire.io" />
+  <project path="InkwireResources" name="koush/InkwireResources" />
 
   <project path="Tether" name="koush/Tether" />
   <project path="TetherResources" name="ClockworkMod/TetherResources" />
 
   <project path="Backup" name="koush/Backup" />
+  <project path="dropbox-sdk" name="koush/dropbox-sdk" />
   <project path="CarbonResources" name="koush/CarbonResources" />
   <project path="box-android-sdk-v2" name="koush/box-android-sdk-v2" />
 
-  <project path="Superuser" name="koush/Superuser" />
-
   <project path="ClockworkModBilling" name="ClockworkMod/ClockworkModBilling" />
-  <project path="Widgets" name="koush/Widgets" />
+  <project path="clockworkbilling" name="koush/clockworkbilling" />
+  <project path="clockworkbilling-java" name="koush/clockworkbilling-java" />
+
   <project path="artwork" name="ClockworkMod/artwork" />
 </manifest>
