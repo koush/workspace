@@ -19,6 +19,7 @@
   <project path="UniversalAdbDriver" name="koush/UniversalAdbDriver" />
 
   <project path="Cast" name="koush/Cast" />
+  <project path="FFmpeg" name="koush/FFmpeg.git" />
   <project path="CastAPI" name="koush/CastAPI" />
   <project path="CastResources" name="koush/CastResources" />
 
