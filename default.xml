@@ -29,6 +29,7 @@
   <project path="vysornuts.clockworkmod.com" name="koush/vysornuts.clockworkmod.com" />
   <project path="inkwire.io" name="koush/inkwire.io" />
   <project path="InkwireResources" name="koush/InkwireResources" />
+  <project path="RTC" name="koush/RTC" />
 
   <project path="Tether" name="koush/Tether" />
   <project path="TetherResources" name="ClockworkMod/TetherResources" />
