@@ -9,6 +9,8 @@
            sync-c="true"
            sync-j="4" />
 
+  <project path="release" name="koush/release" />
+
   <project path="AndroidAsync" name="koush/AndroidAsync" />
   <project path="ion" name="koush/ion" />
   <project path="myshowcase" name="koush/myshowcase" />
@@ -21,7 +23,15 @@
   <project path="Cast" name="koush/Cast" />
   <project path="FFmpeg" name="koush/FFmpeg.git" />
   <project path="CastAPI" name="koush/CastAPI" />
+  <project path="CastSite" name="koush/CastSite" revision="gh-pages" />
   <project path="CastResources" name="koush/CastResources" />
+  <project path="allcast-feed-api" name="koush/allcast-feed-api" />
+
+  <project path="scratch" name="koush/scratch" />
+  <project path="quack" name="koush/quack" />
+  <project path="quack-polyfill" name="koush/quack-polyfill" />
+  <project path="quickjs" name="koush/quickjs" revision="quack" />
+
 
   <project path="Vysor" name="koush/Vysor" />
   <project path="vysor.io" name="koush/vysor.io" />
@@ -35,7 +45,6 @@
   <project path="TetherResources" name="ClockworkMod/TetherResources" />
 
   <project path="Backup" name="koush/Backup" />
-  <project path="dropbox-sdk" name="koush/dropbox-sdk" />
   <project path="CarbonResources" name="koush/CarbonResources" />
   <project path="box-android-sdk-v2" name="koush/box-android-sdk-v2" />
 
